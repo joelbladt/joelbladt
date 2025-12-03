@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg"
+       alt="Joel Bladt – Backend Entwickler • PHP • Laravel • API Engineering" />
+</p>
+
 <!--HEADER-->
 <h1 align="center">👋 Hi, ich bin Joel Bladt</h1>
 <p align="center">
@@ -5,7 +10,7 @@
 </p>
 <p align="center">
   <strong>Backend Developer • API Engineering • PHP Enthusiast</strong><br>
-  Entwicklung zuverlässiger Backendsysteme mit Fokus auf Clean Architecture, Testbarkeit und Developer Experience.
+  Entwicklung zuverlässiger Backend-Systeme mit Fokus auf Clean Architecture, Testbarkeit und Developer Experience.
 </p>
 
 <p align="center">
@@ -14,7 +19,7 @@
 
 <!--ROLE BADGES-->
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend_Developer-PHP_%7C_Laravel-8250DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_Developer-PHP_%7C_Laravel-FF2D20?style=for-the-badge" />
 </p>
 
 <!--TECH BADGES-->

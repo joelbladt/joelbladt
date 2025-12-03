@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg"
+       alt="Joel Bladt – Backend Developer • PHP • Laravel • API Engineering" />
+</p>
+
 <!--HEADER-->
 <h1 align="center">👋 Hi, I'm Joel Bladt</h1>
 <p align="center">
@@ -5,7 +10,7 @@
 </p>
 <p align="center">
   <strong>Backend Developer • API Engineering • PHP Enthusiast</strong><br>
-  Building reliable backend systems with a focus on clean architecture, testability and developer experience.
+  Creating reliable backend systems with a focus on clean architecture, testability and developer experience.
 </p>
 
 <p align="center">
@@ -14,7 +19,7 @@
 
 <!--ROLE BADGES-->
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend_Developer-PHP_%7C_Laravel-8250DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_Developer-PHP_%7C_Laravel-FF2D20?style=for-the-badge" />
 </p>
 
 <!--TECH BADGES-->
@@ -34,7 +39,7 @@
 I'm a backend-focused developer with long-standing experience in **API development**,  
 **service-oriented architectures**, and **maintainable PHP applications**.
 
-Coming from an IT-oriented family, I began programming at age 14 and have since built  
+Coming from an IT-oriented family, I started programming at age 14 and have since built  
 a professional career around **backend engineering**, **clean code**, and **scalable systems**.
 
 My primary strengths:
