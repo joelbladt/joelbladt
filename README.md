@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg"
+  <img src="./profile-banner.svg"
        alt="Joel Bladt – Backend Developer • PHP • Laravel • API Engineering" />
 </p>
 
